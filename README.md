@@ -15,8 +15,8 @@
 <p>5. How to create the correct locale for changing languages.</p>
 <p>6.How to configure the database for correct operation (connection settings)</p>
 <h3>Run Project</h3>
-Create an empty database named login_repository<br>
-Also need create schema named login_storage <br> 
+Create an empty database named <code>login_repository </code><br>
+Also need create schema named <code>login_storage</code><br> 
 And you need to create 3 tables <br>
 <pre>
 CREATE TABLE login_storage.category
