@@ -1,3 +1,4 @@
+<h4>Join me in <a href="https://www.linkedin.com/in/valery-dorozhynski-6142b0175/"/>Linkedin.com</a></h4>
 <h1> SPORT PROGRAM </h1>
 <p>This is a simple project designed to learn Java SE, Java EE, Postgresql, TomCat etc.</p>
 <h3>Functions and description of the project: </h3>
@@ -70,4 +71,3 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        
 <h3>IDE</h3>
 Import the project into your IDE and run it as a Java WEB application. <br>
-<h5>Join me in <a href="https://www.linkedin.com/in/valery-dorozhynski-6142b0175/"/>Linkedin.com</a></h5>
