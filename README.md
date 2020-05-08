@@ -1,14 +1,16 @@
 <h1> SPORT PROGRAM </h1>
 <p>This is a simple project designed to learn Java SE, Java EE, Postgresql, TomCat etc.</p>
 <h3>Functions and description of the project: </h3>
+<div name="container">
 <p>1. The project has an authorization form. You can implement the connection through third-party services (they are in the form of a login). There are 2 users with 2 roles (administrator and user). I added them statically without saving them in the database (you can edit them and add your name and password)</p>
 <p>2. In this project you can create your own sports programs and give them descriptions, they are stored in a database.</p>
 <p>3. In addition, the project already has its own programs recommended by the site itself, as well as descriptions and a working link to real third-party sites.</p>
 <p>4. You can view the programs added by users and the administrator.</p>
 <p>5. Has the same shutdown.</p>
 <p>6. Also implemented the counter (through the servlet). Needed to view users in the stream :) Joke :-)</p>
+</div>
 
-The project will be useful to those who need answers to questions:
+<h3>The project will be useful to those who need answers to questions:</h3>
 1. How to create a working authorization form with a beautiful interface.
 2. How to add information to the database.
 3. How Java EE works (servlet / jsp).
