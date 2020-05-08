@@ -8,12 +8,12 @@
 <p>5. Has the same shutdown.</p>
 <p>6. Also implemented the counter (through the servlet). Needed to view users in the stream :) Joke :-)</p>
 <h3>The project will be useful to those who need answers to questions:</h3>
-1. How to create a working authorization form with a beautiful interface.
-2. How to add information to the database.
-3. How Java EE works (servlet / jsp).
-4. How to create an entity / dao / dto / service / util / filter.
-5. How to create the correct locale for changing languages.
-6.How to configure the database for correct operation (connection settings)
+<p>1. How to create a working authorization form with a beautiful interface.</p>
+<p>2. How to add information to the database.</p>
+<p>3. How Java EE works (servlet / jsp).</p>
+<p>4. How to create an entity / dao / dto / service / util / filter.</p>
+<p>5. How to create the correct locale for changing languages.</p>
+<p>6.How to configure the database for correct operation (connection settings)</p>
 <h3>Run Project</h3>
 Create an empty database named login_repository<br>
 Also need create schema named login_storage <br> 
