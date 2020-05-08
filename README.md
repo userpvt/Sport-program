@@ -1,4 +1,4 @@
-SPORT PROGRAM
+<h1> SPORT PROGRAM </h1>
 This is a simple project designed to learn Java SE, Java EE, Postgresql, TomCat etc.
 Functions and description of the project:
 1. The project has an authorization form. You can implement the connection through third-party services (they are in the form of a login). There are 2 users with 2 roles (administrator and user). I added them statically without saving them in the database (you can edit them and add your name and password)
@@ -68,3 +68,7 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        ('6 кубов', 30, 'MONTHLY', 'HARDCORE', 'Дома','https://bombatelo.ru/programma-200-pressa/',(SELECT id FROM login_storage.category WHERE name = 'Стальной пресс')),
        ('Будь лучшей', 7, 'WEEKLY', 'MEDIUM', 'Зал','https://dailyfit.ru/programmy-trenirovok/effektivnaya-trenirovka-yagodic-programma-dlya-devushek/',(SELECT id FROM login_storage.category WHERE name = 'Круглые ягодицы')),
        ('Стройная мама', 30, 'MONTHLY', 'MEDIUM', 'Дома','http://trainathome.ru/training/trenirovochnaya-programma-dlya-molodykh-mam.html',(SELECT id FROM login_storage.category WHERE name = 'Программа: После родов'));
+       
+IDE
+
+Import the project into your IDE and run it as a Java WEB application.
