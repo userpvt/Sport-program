@@ -70,4 +70,4 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        
 <h3>IDE</h3>
 Import the project into your IDE and run it as a Java WEB application. <br>
-<h5>Join me in <a href="<c:url value = "https://www.linkedin.com/in/valery-dorozhynski-6142b0175/"/>">Linkedin.com</a></h5>
+<h5>Join me in <a href="<c:url value = "https://www.linkedin.com/in/valery-dorozhynski-6142b0175/"/>Linkedin.com</a></h5>
