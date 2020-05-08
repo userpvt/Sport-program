@@ -58,7 +58,7 @@ VALUES ('Марш-бросок'),
        ('Круглые ягодицы'),
        ('Программа: После родов');
        
-       INSERT INTO login_storage.description (name, days, period, level, type, specification, category_id)
+INSERT INTO login_storage.description (name, days, period, level, type, specification, category_id)
 VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https://full-fit.com/programmy-trenirovok/domashnie-trenirovki-dlya-muzhchin/',(SELECT id FROM login_storage.category WHERE name = 'Марш-бросок')),
        ('Сила стадиона', 7, 'WEEKLY', 'MEDIUM', 'Стадион','https://bombatelo.ru/programma-trenirovok-na-ulice/',(SELECT id FROM login_storage.category WHERE name = 'Проверь свою силу')),
        ('Быстрее ветра', 30, 'MONTHLY', 'EASY', 'Зал/улица','https://full-fit.com/programmy-trenirovok/na-vynoslivost/',(SELECT id FROM login_storage.category WHERE name = 'Проверь свою выносливость')),
@@ -68,6 +68,5 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        ('Будь лучшей', 7, 'WEEKLY', 'MEDIUM', 'Зал','https://dailyfit.ru/programmy-trenirovok/effektivnaya-trenirovka-yagodic-programma-dlya-devushek/',(SELECT id FROM login_storage.category WHERE name = 'Круглые ягодицы')),
        ('Стройная мама', 30, 'MONTHLY', 'MEDIUM', 'Дома','http://trainathome.ru/training/trenirovochnaya-programma-dlya-molodykh-mam.html',(SELECT id FROM login_storage.category WHERE name = 'Программа: После родов')); </pre>
        
-IDE
-
-Import the project into your IDE and run it as a Java WEB application.
+<h3>IDE</h3>
+Import the project into your IDE and run it as a Java WEB application. <br>
