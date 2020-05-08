@@ -66,7 +66,7 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        ('Строим тело', 30, 'MONTHLY', 'MEDIUM', 'Зал','https://builderbody.ru/programma-dlya-effektivnogo-nabora-myshechnoj-massy/',(SELECT id FROM login_storage.category WHERE name = 'Набор мышечной массы')),
        ('6 кубов', 30, 'MONTHLY', 'HARDCORE', 'Дома','https://bombatelo.ru/programma-200-pressa/',(SELECT id FROM login_storage.category WHERE name = 'Стальной пресс')),
        ('Будь лучшей', 7, 'WEEKLY', 'MEDIUM', 'Зал','https://dailyfit.ru/programmy-trenirovok/effektivnaya-trenirovka-yagodic-programma-dlya-devushek/',(SELECT id FROM login_storage.category WHERE name = 'Круглые ягодицы')),
-       ('Стройная мама', 30, 'MONTHLY', 'MEDIUM', 'Дома','http://trainathome.ru/training/trenirovochnaya-programma-dlya-molodykh-mam.html',(SELECT id FROM login_storage.category WHERE name = 'Программа: После родов'));
+       ('Стройная мама', 30, 'MONTHLY', 'MEDIUM', 'Дома','http://trainathome.ru/training/trenirovochnaya-programma-dlya-molodykh-mam.html',(SELECT id FROM login_storage.category WHERE name = 'Программа: После родов')); </pre>
        
 IDE
 
