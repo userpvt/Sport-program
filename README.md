@@ -13,7 +13,7 @@
 <p>3. How Java EE works (servlet / jsp).</p>
 <p>4. How to create an entity / dao / dto / service / util / filter.</p>
 <p>5. How to create the correct locale for changing languages.</p>
-<p>6.How to configure the database for correct operation (connection settings)</p>
+<p>6.How to configure the database for correct operation (connection settings).</p>
 <h3>Run Project</h3>
 Create an empty database named <code>login_repository </code><br>
 Also need create schema named <code>login_storage</code><br> 
