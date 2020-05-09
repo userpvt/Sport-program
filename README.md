@@ -70,4 +70,4 @@ VALUES ('Домашний вызов', 30, 'MONTHLY', 'HARD', 'Дома', 'https
        ('Стройная мама', 30, 'MONTHLY', 'MEDIUM', 'Дома','http://trainathome.ru/training/trenirovochnaya-programma-dlya-molodykh-mam.html',(SELECT id FROM login_storage.category WHERE name = 'Программа: После родов')); </pre>
        
 <h3>IDE</h3>
-Import the project into your IDE and run it as a Java WEB application. <br>
+Import the project into your IDE and run it as a Java Enterprise Web Application. <br>
